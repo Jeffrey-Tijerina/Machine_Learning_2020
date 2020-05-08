@@ -15,10 +15,10 @@ Frank Rosenblatt used the McCulloch-Pitts neuron and the Hebb's work to develop 
 
 The summation formula for determining whether or not the threshold (θ) is met for the artificial neuron with N inputs (a 1, a2, . . . ,  aN) and their respective weights of w 1, w2, . . . , wN  is:
 
-![perceptron model equation](https://github.com/Jeffrey-Tijerina/Machine_Learning_2020/blob/master/Perceptron/perceptron_eq_1.jpg)
+![perceptron model eq](https://github.com/Jeffrey-Tijerina/Machine_Learning_2020/blob/master/Perceptron/perceptron_eq_1.jpg)
 
 The activation function then becomes:
 
-![perceptron model equation](https://github.com/Jeffrey-Tijerina/Machine_Learning_2020/blob/master/Perceptron/perceptron_eq_1.jpg)
+![perceptron model activation fn](https://github.com/Jeffrey-Tijerina/Machine_Learning_2020/blob/master/Perceptron/perceptron_eq_2.jpg)
 
 The activation function used by McCulloch and Pitts was the threshold step function.  However, other functions that can be used are the Sigmoid, Piecewise Linear and Gaussian activation functions.
